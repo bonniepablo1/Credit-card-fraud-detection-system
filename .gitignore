@@ -1,0 +1,19 @@
+# Jupyter Notebook specific
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.log
+
+# Environment variables
+.env
+
+# Output images from the notebook
+fraud_overview.png
+roc_fraud.png
+pr_curves_fraud.png
+confusion_fraud.png
+feature_importance_fraud.png
+automl_results.png
+fraud_comparison.png
